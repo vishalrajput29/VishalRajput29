@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2023/08/15/14/05/banner-8192025_960_720.png)]
+[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)]
 <h1 align="center">Hi 👋, I'm Vishal Rajput</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
