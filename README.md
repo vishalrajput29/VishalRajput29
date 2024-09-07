@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrajput29292929&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrajput29292929" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Science**
 
